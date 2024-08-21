@@ -1,0 +1,6 @@
+[package]
+name = "error-code"
+version = "0.1.0"
+authors = ["Redox Rust <redox-rust@hotmail.com>"]
+edition = "2021"
+license = "MIT"
